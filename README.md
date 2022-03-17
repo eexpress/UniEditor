@@ -35,7 +35,7 @@
 \* Kill.删除多行|`Ctrl`-`K`|`Ctrl`-`D`|-
 \* 复制/剪切行|`Shift`-`Ctrl`-`C`/`X`|-|-
 Delete.删除到行首/尾|`Shift`-`Ctrl`-`Backspace`/`Delete`|<-SAME|-
-\* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|`Ctrl`-/
+\* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|`Ctrl`-`/`
 Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 \* Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
 \* Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
@@ -43,8 +43,8 @@ Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 跳转最后两个位置|`Alt`-⬅/➡ ？？？|-|-
 跳转整词首尾|`Ctrl`-⬅/➡|<-SAME|<-SAME
 跳转前后单词|`Ctrl`-`/`/`\`|-|-
-缩放文字|`Ctrl`- `-`/`+`/`0`|<-SAME|无0
-拆分窗口|`Shift`-`Ctrl`-`Down`/`Right`|-|-
+缩放文字|`Ctrl`- `-/+/0`|<-SAME|无0
+拆分窗口|`Shift`-`Ctrl`-⬇/➡|-|-
 左右交换单词|-|`Alt`-⬅/➡|-
 
 

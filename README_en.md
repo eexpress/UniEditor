@@ -36,19 +36,19 @@ Function | geany | gedit | vscode
 --|--|--|--
 \* Move multiline up and down |`Alt`-`FN`- ⬆/⬇, `Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
 \* Duplicate. Copy selected text / multiline |`Ctrl`-`d`|-|-
-\* Delete multiline |`Ctrl`-`K`|`Ctrl`-`d`|-
+\* Delete multiline |`Ctrl`-`k`|`Ctrl`-`d`|-
 \* Copy / cut multiline |`shift`-`Ctrl`-`c`/`x`|-|-
 Delete to the BOL / EOL |`shift`-`Ctrl`-`backspace`/`delete`| <-SAME|-
-\* Switch multiline comment |`Ctrl`-`e`| [`shift`-]`Ctrl`-`m`| `Ctrl`-/
-Single line indent | Ctrl`-`u`/`I`| none /`shift`-`tab`|-
+\* Switch multiline comment |`Ctrl`-`e`| [`shift`-]`Ctrl`-`m`| `Ctrl`-`/`
+Single line indent | `Ctrl`-`u`/`i`| none /`shift`-`tab`|-
 \* Multiline selection indent | [`shift`]`tab`| <-SAME | <-SAME
 \* Mark and jump |`Ctrl`-`m`/`,` |`Ctrl`+`Alt`+`B`, [`shift`]`Ctrl`-`B`|-
 Adjust selection |`shift`- ⬅/➡|<- SAME |`Alt`-`shift`- ⬅/➡
 Jump between last two positions|`Alt`- ⬅/➡ ？？？|-|-
 Jump to BOW/EOW |`Ctrl`- ⬅/➡|<- SAME|<-SAME
 Words before and after jump |`Ctrl`-`/`/`\`|-|-
-Zoom text | Ctrl`-`-`/`+`/`0`| <-SAME | none 0
-Split window|`shift'-`Ctrl`-`down`/`right`|-|-
+Zoom text | `Ctrl`-`-/+/0`| <-SAME | none 0
+Split window|`shift'-`Ctrl`-⬇/➡|-|-
 Swap words left and right |-|`Alt`- ⬅/➡|-
 
 
