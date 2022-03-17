@@ -51,15 +51,15 @@ Let me first propose a set of common hotkeys:
 
 Function | geany | GEDIT | vscode
 --|--|--|--
-* Move multiline up and down | ` ALT ` - ` FN`- ⬆/⬇ ` Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
-* Duplicate. Copy selected text / multiline | ` Ctrl ` - ` d`|-|-
-* Delete multiline | ` Ctrl ` - ` K | ` Ctrl ` - ` d`|-
-* Copy / cut multiline | ` shift ` - ` Ctrl ` - ` c ` / ` x`|-|-
+\* Move multiline up and down | ` ALT ` - ` FN`- ⬆/⬇ ` Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
+\* Duplicate. Copy selected text / multiline | ` Ctrl ` - ` d`|-|-
+\* Delete multiline | ` Ctrl ` - ` K | ` Ctrl ` - ` d`|-
+\* Copy / cut multiline | ` shift ` - ` Ctrl ` - ` c ` / ` x`|-|-
 Delete to the BOL / EOL | ` shift ` - ` Ctrl ` - ` backspace ` / ` delete ` | < - same|-
-* Switch multiline comment | ` Ctrl ` - ` e ` | [` shift ` -] ` Ctrl ` - ` m ` | Ctrl-/
+\* Switch multiline comment | ` Ctrl ` - ` e ` | [` shift ` -] ` Ctrl ` - ` m ` | Ctrl-/
 Single line indent | Ctrl ` - ` u ` / ` I ` | none / ` shift ` - ` tab`|-
-* Multiline selection indent | [` shift `] ` tab ` | < - same | < - same
-* Mark and jump | ` Ctrl ` - ` m ` / `, | ` Ctrl ` + ` ALT ` + ` B `, [` shift `] ` Ctrl ` - ` B`|-
+\* Multiline selection indent | [` shift `] ` tab ` | < - same | < - same
+\* Mark and jump | ` Ctrl ` - ` m ` / `, | ` Ctrl ` + ` ALT ` + ` B `, [` shift `] ` Ctrl ` - ` B`|-
 Adjust selection | ` shift`- ⬅/➡|<- Same | ` ALT '- ` shift`- ⬅/➡
 Jump between last two positions| ` alt`- ⬅/➡ ？？？|-|-
 Jump to BOW/EOW | ` Ctrl`- ⬅/➡|<- SAME|<-SAME
