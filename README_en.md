@@ -53,6 +53,14 @@ Zoom text | `Ctrl`-`-/+/0`| <-SAME | none 0
 Split window|`shift'-`Ctrl`-⬇/➡|-|-
 Swap words left and right |-|`Alt`- ⬅/➡|-
 
+## Basically reasonable hotkeys
+
+```js
+const ML = 'Multi line (partlly) selected';
+const MF = 'Multi Files';
+const CW = 'Current Word under cursor';
+```
+
 Uni Part|---|`Ctrl`|---
 --|--|--|--
 `C` copy (+Shift ML)|`V` paste|`X` cut (+Shift ML)|`A` select all
@@ -60,7 +68,7 @@ Uni Part|---|`Ctrl`|---
 `F` find (+Shift MF)|`H` replace (+Shift MF)|`G` Next (+Shift Last)|`P` Print
 `N` new|`O` open (+Shift Selected File)|`S` save (+Shift MF)|--
 `-` Zoomin|`+` Zoomout|`0` Zoom default|--
-Redesign|---|`Ctrl`|---
+Redesign Part|---|`Ctrl`|---
 `B` Jump Bracket|`D` Duplicate ML|`E` Comment ML
 `U` Indent ML (Shift-Tab)|`I` Indent ML (Tab)|`K` Delete/Kill ML|`L` Goto Line (+Shift Line middle screen)
 `M` Mark|`,<` Jump|`.>` Jump
@@ -68,7 +76,7 @@ Redesign|---|`Ctrl`|---
 ⬅ Last Word|➡ Next Word|⬆ Search CW|⬇ Search CW
 Delete forward/backward|---|`Ctrl`|---
 `Backspace` Word (+Shift Line)|`Delete` Word (+Shift Line)
-Redesign|---|`Alt`|---
+Redesign Part|---|`Alt`|---
 ⬅ Last Position|➡ Next Position|⬆ Scroll Screen|⬇ Scroll Screen
 `PageUp` Move ML|`PageDown` Move ML
 
