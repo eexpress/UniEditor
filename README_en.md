@@ -62,10 +62,10 @@ Uni Part|---|`Ctrl`|---
 `-` Zoomin|`+` Zoomout|`0` Zoom default|--
 Redesign|---|`Ctrl`|---
 `B` Jump Bracket|`D` Duplicate ML|`E` Comment ML
-`U` Indent ML (Tab)|`I` Indent ML (Shift-Tab)|`K` Delete/Kill ML|`L` Goto Line (+Shift Line middle screen)
+`U` Indent ML (Shift-Tab)|`I` Indent ML (Tab)|`K` Delete/Kill ML|`L` Goto Line (+Shift Line middle screen)
 `M` Mark|`,<` Jump|`.>` Jump
 `R` Refresh File???|`T` Jump Define (+Shift Declare)|`J` Refresh Line/Block???|`Enter` Insert Line
-⬅ Word|➡ Word|⬆ Search|⬇ Search
+⬅ Last Word|➡ Next Word|⬆ Search CW|⬇ Search CW
 Delete forward/backward|---|`Ctrl`|---
 `Backspace` Word (+Shift Line)|`Delete` Word (+Shift Line)
 Redesign|---|`Alt`|---
