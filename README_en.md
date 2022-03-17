@@ -55,21 +55,21 @@ Swap words left and right |-|`Alt`- ⬅/➡|-
 
 Uni Part|---|`Ctrl`|---
 --|--|--|--
-C copy (+Shift ML)|V paste|X cut (+Shift ML)|A select all
-Z undo|Y redo|W close (+Shift MF)|Q quit
-F find (+Shift MF)|H replace (+Shift MF)|G Next (+Shift Last)|P Print
-N new|O open (+Shift Selected File)|S save (+Shift MF)|--
-\- Zoomin|+ Zoomout|0 Zoom default|--
+`C` copy (+Shift ML)|`V` paste|`X` cut (+Shift ML)|`A` select all
+`Z` undo|`Y` redo|`W` close (+Shift MF)|`Q` quit
+`F` find (+Shift MF)|`H` replace (+Shift MF)|`G` Next (+Shift Last)|`P` Print
+`N` new|`O` open (+Shift Selected File)|`S` save (+Shift MF)|--
+`-` Zoomin|`+` Zoomout|`0` Zoom default|--
 Redesign|---|`Ctrl`|---
-B Jump Bracket|D Duplicate ML|E Comment ML
-U Indent ML (Tab)|I Indent ML (Shift-Tab)|K Delete/Kill ML|L Goto Line (+Shift Line middle screen)
-M Mark|,< Jump|.> Jump
-R Refresh File???|T Jump Define (+Shift Declare)|J Refresh Line/Block???|Enter Insert Line
+`B` Jump Bracket|`D` Duplicate ML|`E` Comment ML
+`U` Indent ML (Tab)|`I` Indent ML (Shift-Tab)|`K` Delete/Kill ML|`L` Goto Line (+Shift Line middle screen)
+`M` Mark|`,<` Jump|`.>` Jump
+`R` Refresh File???|`T` Jump Define (+Shift Declare)|`J` Refresh Line/Block???|`Enter` Insert Line
 ⬅ Word|➡ Word|⬆ Search|⬇ Search
 Delete forward/backward|---|`Ctrl`|---
-Backspace Word (+Shift Line)|Delete Word (+Shift Line)
+`Backspace` Word (+Shift Line)|`Delete` Word (+Shift Line)
 Redesign|---|`Alt`|---
 ⬅ Last Position|➡ Next Position|⬆ Scroll Screen|⬇ Scroll Screen
-PageUp Move ML|PageDown Move ML
+`PageUp` Move ML|`PageDown` Move ML
 
 > Let editors around the world unify `syntax highlight themes` and `hotkeys`.
