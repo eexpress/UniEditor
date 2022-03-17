@@ -34,15 +34,15 @@ Let me first propose a set of common hotkeys:
 
 Function | geany | gedit | vscode
 --|--|--|--
-\* Move multiline up and down |`Alt`-`FN`- ⬆/⬇, `Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
-\* Duplicate. Copy selected text / multiline |`Ctrl`-`d`|-|-
-\* Delete multiline |`Ctrl`-`k`|`Ctrl`-`d`|-
-\* Copy / cut multiline |`shift`-`Ctrl`-`c`/`x`|-|-
+\* Move Multiline Up/Down |`Alt`-`FN`- ⬆/⬇, `Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
+\* Duplicate Multiline |`Ctrl`-`d`|-|-
+\* Delete Multiline |`Ctrl`-`k`|`Ctrl`-`d`|-
+\* Copy/Cut Multiline |`shift`-`Ctrl`-`c`/`x`|-|-
 Delete to the BOL / EOL |`shift`-`Ctrl`-`backspace`/`delete`| <-SAME|-
-\* Switch multiline comment |`Ctrl`-`e`| [`shift`-]`Ctrl`-`m`| `Ctrl`-`/`
-Single line indent | `Ctrl`-`u`/`i`| none /`shift`-`tab`|-
-\* Multiline selection indent | [`shift`]`tab`| <-SAME | <-SAME
-\* Mark and jump |`Ctrl`-`m`/`,` |`Ctrl`+`Alt`+`B`, [`shift`]`Ctrl`-`B`|-
+\* Toggle Multiline Comment |`Ctrl`-`e`| [`shift`-]`Ctrl`-`m`| `Ctrl`-`/`
+Single line Indent | `Ctrl`-`u`/`i`| none /`shift`-`tab`|-
+\* Multiline Indent | [`shift`]`tab`| <-SAME | <-SAME
+\* Mark and Jump |`Ctrl`-`m`/`,` |`Ctrl`+`Alt`+`B`, [`shift`]`Ctrl`-`B`|-
 Adjust selection |`shift`- ⬅/➡|<- SAME |`Alt`-`shift`- ⬅/➡
 Jump between last two positions|`Alt`- ⬅/➡ ？？？|-|-
 Jump to BOW/EOW |`Ctrl`- ⬅/➡|<- SAME|<-SAME
