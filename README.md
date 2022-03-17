@@ -38,6 +38,7 @@ Delete.删除到行首/尾|`Shift`-`Ctrl`-`Backspace`/`Delete`|<-SAME|-
 \* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|`Ctrl`-`/`
 Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 \* Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
+\* 查找上/下一个当前词/选择|Ctrl-⬆/⬇|-|-
 \* 查找所有用法|Ctrl-Shift-D(文内)/E(全部)|-|Alt-Shift-F12(仅识别的变量)
 \* Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
 调整选择|`Shift`-⬅/➡|<-SAME(调首部)|`Alt`-`Shift`-⬅/➡
@@ -47,6 +48,5 @@ Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 缩放文字|`Ctrl`- `-/+/0`|<-SAME|无0
 拆分窗口|`Shift`-`Ctrl`-⬇/➡|-|-
 左右交换单词|-|`Alt`-⬅/➡|-
-
 
 > 让全世界的编辑器们，统一`语法高亮主题`和`热键`吧。

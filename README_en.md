@@ -42,6 +42,7 @@ Delete to the BOL / EOL |`shift`-`Ctrl`-`backspace`/`delete`| <-SAME|-
 \* Toggle Multiline Comment |`Ctrl`-`e`| [`shift`-]`Ctrl`-`m`| `Ctrl`-`/`
 Single line Indent | `Ctrl`-`u`/`i`| none /`shift`-`tab`|-
 \* Multiline Indent | [`shift`]`tab`| <-SAME | <-SAME
+\* Search Last/Next word|Ctrl-⬆/⬇|-|-
 \* Find all Reference|Ctrl-Shift-D(in Document)/E(All)|-|Alt-Shift-F12(only recognized)
 \* Mark and Jump |`Ctrl`-`m`/`,` |`Ctrl`+`Alt`+`B`, [`shift`]`Ctrl`-`B`|-
 Adjust selection |`shift`- ⬅/➡|<- SAME |`Alt`-`shift`- ⬅/➡
