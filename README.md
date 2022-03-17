@@ -35,7 +35,7 @@
 \* Kill.删除多行|`Ctrl`-`K`|`Ctrl`-`D`|-
 \* 复制/剪切行|`Shift`-`Ctrl`-`C`/`X`|-|-
 Delete.删除到行首/尾|`Shift`-`Ctrl`-`Backspace`/`Delete`|<-SAME|-
-\* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|Ctrl-/
+\* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|`Ctrl`-/
 Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 \* Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
 \* Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
@@ -48,4 +48,4 @@ Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 左右交换单词|-|`Alt`-⬅/➡|-
 
 
-> 让全世界的编辑器们，统一语法高亮主题和热键吧。
+> 让全世界的编辑器们，统一`语法高亮主题`和`热键`吧。
