@@ -38,6 +38,7 @@ Delete.删除到行首/尾|`Shift`-`Ctrl`-`Backspace`/`Delete`|<-SAME|-
 \* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|`Ctrl`-`/`
 Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
 \* Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
+\* 查找所有用法|Ctrl-Shift-D(文内)/E(全部)|-|Alt-Shift-F12(仅识别的变量)
 \* Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
 调整选择|`Shift`-⬅/➡|<-SAME(调首部)|`Alt`-`Shift`-⬅/➡
 跳转最后两个位置|`Alt`-⬅/➡ ？？？|-|-
