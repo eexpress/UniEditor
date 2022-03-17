@@ -30,15 +30,15 @@
 
 功能|geany|gedit|vscode
 --|--|--|--
-Move.上下移动多行|`Alt`-`Fn`-⬆/⬇ `Alt`-`PageUp`/`PageDown`|`Alt`-⬆/⬇|<-SAME
-Duplicate.复制选中文字/多行|`Ctrl`-`D`|-|-
-Kill.删除多行|`Ctrl`-`K`|`Ctrl`-`D`|-
-复制/剪切行|`Shift`-`Ctrl`-`C`/`X`|-|-
+* Move.上下移动多行|`Alt`-`Fn`-⬆/⬇ `Alt`-`PageUp`/`PageDown`|`Alt`-⬆/⬇|<-SAME
+* Duplicate.复制选中文字/多行|`Ctrl`-`D`|-|-
+* Kill.删除多行|`Ctrl`-`K`|`Ctrl`-`D`|-
+* 复制/剪切行|`Shift`-`Ctrl`-`C`/`X`|-|-
 Delete.删除到行首/尾|`Shift`-`Ctrl`-`Backspace`/`Delete`|<-SAME|-
-Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|Ctrl-/
+* Comment.切换多行注释|`Ctrl`-`E`|[`Shift`-]`Ctrl`-`M`|Ctrl-/
 Indent.单行缩进|`Ctrl`-`U`/`I`|NONE/`Shift`-`Tab`|-
-Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
-Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
+* Indent.多行选中缩进|[`Shift`]`Tab`|<-SAME|<-SAME
+* Mark.标记和跳转|`Ctrl`-`M`/`,`|`Ctrl`+`Alt`+`B`, [`Shift`]`Ctrl`-`B`|-
 调整选择|`Shift`-⬅/➡|<-SAME(调首部)|`Alt`-`Shift`-⬅/➡
 跳转最后两个位置|`Alt`-⬅/➡ ？？？|-|-
 跳转整词首尾|`Ctrl`-⬅/➡|<-SAME|<-SAME

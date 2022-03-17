@@ -35,7 +35,7 @@ So everyone will think
 > Editing hotkeys is actually just a subset of software hotkeys.
 
 
-- Hotkeys can be unified, because there are only common parts due to the differences in editor functions. Usually only ctrl-c / V / X / Z / Y / F / h / g / N / O / S / w / Q / A.
+- Hotkeys can be unified, because there are only common parts due to the differences in editor functions. Usually only Ctrl-C/V/X/Z/Y/F/H/G/N/O/S/W/Q/A.
 
 - In view of different history and habits, the hotkeys of common functions will also form several styles.
 
@@ -51,21 +51,21 @@ Let me first propose a set of common hotkeys:
 
 Function | geany | GEDIT | vscode
 --|--|--|--
-Move multiple lines up and down | ` ALT ` - ` FN`- ⬆/⬇ ` Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
-Duplicate. Copy selected text / multiline | ` Ctrl ` - ` d`|-|-
-Kill. Delete multiline | ` Ctrl ` - ` K | ` Ctrl ` - ` d`|-
-Copy / cut line | ` shift ` - ` Ctrl ` - ` c ` / ` x`|-|-
+* Move multiline up and down | ` ALT ` - ` FN`- ⬆/⬇ ` Alt`-`PageUp`/`PageDown`|`Alt`- ⬆/⬇|<- SAME
+* Duplicate. Copy selected text / multiline | ` Ctrl ` - ` d`|-|-
+* Delete multiline | ` Ctrl ` - ` K | ` Ctrl ` - ` d`|-
+* Copy / cut multiline | ` shift ` - ` Ctrl ` - ` c ` / ` x`|-|-
 Delete to the BOL / EOL | ` shift ` - ` Ctrl ` - ` backspace ` / ` delete ` | < - same|-
-Switch multiline comment | ` Ctrl ` - ` e ` | [` shift ` -] ` Ctrl ` - ` m ` | Ctrl-/
+* Switch multiline comment | ` Ctrl ` - ` e ` | [` shift ` -] ` Ctrl ` - ` m ` | Ctrl-/
 Single line indent | Ctrl ` - ` u ` / ` I ` | none / ` shift ` - ` tab`|-
-Multi line selection indent | [` shift `] ` tab ` | < - same | < - same
-Mark and jump | ` Ctrl ` - ` m ` / `, | ` Ctrl ` + ` ALT ` + ` B `, [` shift `] ` Ctrl ` - ` B`|-
+* Multiline selection indent | [` shift `] ` tab ` | < - same | < - same
+* Mark and jump | ` Ctrl ` - ` m ` / `, | ` Ctrl ` + ` ALT ` + ` B `, [` shift `] ` Ctrl ` - ` B`|-
 Adjust selection | ` shift`- ⬅/➡|<- Same | ` ALT '- ` shift`- ⬅/➡
 Jump between last two positions| ` alt`- ⬅/➡ ？？？|-|-
 Jump to BOW/EOW | ` Ctrl`- ⬅/➡|<- SAME|<-SAME
 Words before and after jump | ` Ctrl`-`/`/`\`|-|-
 Zoom text | Ctrl ` - ` - ` / ` + ` / ` 0 ` | < - same | none 0
-Split window - ` shift '- ` Ctrl' - ` down '/ ` right`|-|-
+Split window| ` shift '- ` Ctrl' - ` down '/ ` right`|-|-
 Swap words left and right | - | ` alt`- ⬅/➡|-
 
 
