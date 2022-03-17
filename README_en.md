@@ -58,8 +58,8 @@ Uni Part|---|`Ctrl`|---
 C copy (+Shift ML)|V paste|X cut (+Shift ML)|A select all
 Z undo|Y redo|W close (+Shift MF)|Q quit
 F find (+Shift MF)|H replace (+Shift MF)|G Next (+Shift Last)|P Print
-N new|O open (+Shift Selected File)|S save (+Shift MF)|
-- Zoomin|+ Zoomout|0 Zoom default|
+N new|O open (+Shift Selected File)|S save (+Shift MF)|--
+\- Zoomin|+ Zoomout|0 Zoom default|--
 Redesign|---|`Ctrl`|---
 B Jump Bracket|D Duplicate ML|E Comment ML
 U Indent ML (Tab)|I Indent ML (Shift-Tab)|K Delete/Kill ML|L Goto Line (+Shift Line middle screen)
